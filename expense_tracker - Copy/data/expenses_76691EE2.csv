@@ -1,0 +1,6 @@
+expense_id,user_id,amount,category,description,date,source
+303a75b0-8d7,76691EE2,120.0,Other,Pav bhaji,2026-04-11T23:02:11.939724,text
+4d243bbc-b31,76691EE2,120.0,Food,Burger v,2026-04-11T23:02:20.974882,text
+e07d994c-399,76691EE2,100.0,Transport,Uber,2026-04-11T23:02:28.303644,text
+44f9a4ff-f2f,76691EE2,150.0,Other,Cricket pad,2026-04-11T23:02:42.062419,text
+01983b2d-0ae,76691EE2,120.0,Food,Pizza,2026-04-11T23:03:31.025889,text

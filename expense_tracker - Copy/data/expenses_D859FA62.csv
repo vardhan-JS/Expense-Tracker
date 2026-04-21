@@ -1,0 +1,6 @@
+expense_id,user_id,amount,category,description,date,source
+c9df35e8-0bb,D859FA62,40.0,Food,Pizza,2026-04-12T14:36:08.011118,text
+e49fb22d-da7,D859FA62,150.0,Food,Burger,2026-04-12T14:36:37.858009,text
+c1c80d4d-d86,D859FA62,190.0,Other,Ub,2026-04-12T14:36:58.227939,text
+8b8e7a64-511,D859FA62,1200.0,Shopping,Amazon,2026-04-12T14:37:12.986460,text
+123259c5-c56,D859FA62,499.0,Bills,Jio Prepaid Recharge,2026-04-12T14:37:29.443374,screenshot

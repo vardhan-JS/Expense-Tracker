@@ -1,0 +1,6 @@
+expense_id,user_id,amount,category,description,date,source
+70611867-e4b,DFDDD4A0,69.0,Food,Milk,2026-04-14T21:35:18.520882,text
+d5eca301-1b4,DFDDD4A0,50.0,Transport,Cab,2026-04-14T21:34:56.034994,text
+763c0211-88d,DFDDD4A0,4.0,Other,Kid,2026-04-14T21:34:15.932270,text
+f4844f04-0ad,DFDDD4A0,5.0,Other,Biscuit,2026-04-14T21:34:06.718910,text
+f890c373-883,DFDDD4A0,10.0,Other,Biscuit,2026-04-14T21:33:47.698140,text
